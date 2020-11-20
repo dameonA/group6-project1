@@ -85,7 +85,7 @@
     box-shadow: 0 0 0 #666;
   }
   
-  //responsive screen size min: 750px:
+   /*screen size min: 750px:*/
   @media screen and (min-width: 750px) {
     .review__card {
       max-width: 600px;
